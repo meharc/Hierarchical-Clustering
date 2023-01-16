@@ -1,2 +1,4 @@
 # Hierarchical-Clustering
-The repository provides a tutorial to understand hierarchical clustering and provides a demonstration in R.
+The repository helps create a comprehensive online tutorial (i.e., an .html file created using RMarkdown) explaining the methodology of hierarchical clustering. It contains the R code for working out the computation for how the clustering and resulting dendrograms are calculated/computed (with relevant code displayed) in *tutorial.Rmd* file with the output .html file given in *tutorial.html*. 
+
+
